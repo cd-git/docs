@@ -1,0 +1,25 @@
+languageCode = "en"
+languageName = "English"
+displayName = "EN"
+isoCode = "en"
+weight = 1
+rtl = false
+
+title = "CD Docs"
+logo = "img/cd-logo.png"
+#secondaryLogo = "PATH"
+description = "Not the youtube channel"
+# copyright = "Copy, _right?_ :thinking_face:"
+
+dateFormat = "2000/12/09"
+
+[author]
+  # name = "CD Docs"
+  image = "img/clipboard-manila.png"
+  headline = ""
+  bio = ""
+  # links = [
+  #   { twitter = "https://twitter.com/burufugu" },
+  #   { mastodon = "https://masto.ai/@blowfish" },
+  #   { github = "https://github.com/nunocoracao/blowfish" },
+  # ]
