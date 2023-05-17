@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on CD Docs</title>
-    <link>https://cd-git.github.io/docs/tags/</link>
+    <link>https://documentation.chinadaily.asia/tags/</link>
     <description>Recent content in Tags on CD Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cd-git.github.io/docs/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://documentation.chinadaily.asia/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>aws</title>
-      <link>https://cd-git.github.io/docs/tags/aws/</link>
+      <link>https://documentation.chinadaily.asia/tags/aws/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cd-git.github.io/docs/tags/aws/</guid>
+      <guid>https://documentation.chinadaily.asia/tags/aws/</guid>
       <description></description>
     </item>
     
     <item>
       <title>docs</title>
-      <link>https://cd-git.github.io/docs/tags/docs/</link>
+      <link>https://documentation.chinadaily.asia/tags/docs/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cd-git.github.io/docs/tags/docs/</guid>
+      <guid>https://documentation.chinadaily.asia/tags/docs/</guid>
       <description></description>
     </item>
     

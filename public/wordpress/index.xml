@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Documentation on CD Docs</title>
-    <link>https://cd-git.github.io/docs/wordpress/</link>
+    <link>https://documentation.chinadaily.asia/wordpress/</link>
     <description>Recent content in Documentation on CD Docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://cd-git.github.io/docs/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://documentation.chinadaily.asia/wordpress/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -8,7 +8,7 @@
   
     
       <url>
-            <loc>https://cd-git.github.io/docs/aws/</loc>
+            <loc>https://documentation.chinadaily.asia/aws/</loc>
             <lastmod>2023-05-09T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -17,7 +17,7 @@
   
     
       <url>
-            <loc>https://cd-git.github.io/docs/</loc>
+            <loc>https://documentation.chinadaily.asia/</loc>
             <lastmod>2023-05-09T00:00:00+00:00</lastmod>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
@@ -34,7 +34,7 @@
   
     
       <url>
-            <loc>https://cd-git.github.io/docs/docs/</loc>
+            <loc>https://documentation.chinadaily.asia/docs/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>
@@ -42,7 +42,7 @@
   
     
       <url>
-            <loc>https://cd-git.github.io/docs/wordpress/</loc>
+            <loc>https://documentation.chinadaily.asia/wordpress/</loc>
             <changefreq>always</changefreq>
             <priority>0.5</priority>
           </url>

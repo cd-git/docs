@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>CD Docs Homepage on CD Docs</title>
-    <link>https://cd-git.github.io/docs/</link>
+    <link>https://documentation.chinadaily.asia/</link>
     <description>Recent content in CD Docs Homepage on CD Docs</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://cd-git.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 09 May 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://documentation.chinadaily.asia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AWS docs</title>
-      <link>https://cd-git.github.io/docs/aws/</link>
+      <link>https://documentation.chinadaily.asia/aws/</link>
       <pubDate>Tue, 09 May 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://cd-git.github.io/docs/aws/</guid>
+      <guid>https://documentation.chinadaily.asia/aws/</guid>
       <description>AWS S3 # DNS # AWS is home to the</description>
       
     </item>
